@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Halaman pertamaku</title>
+</head>
+<body>
+    <h1>Hosting Indonesia</h1>
+    <p>Kami menyediakan berbagai paket hosting dengan fitur lengkap</p>
+    <h3>Pilihan Paket Hosting Indonesia:</h3>
+    <ul>
+        <li><a href="#">Paket Bayi</a></li>
+        <li><a href="#">Paket Pelajar</a></li>
+        <li><a href="#">Paket Personal</a></li>
+        <li><a href="#">Paket Bisni</a></li>
+    </ul>
+
+    <table border="1">
+        <tr>
+            <td>Bayi</td>
+            <td>Pelajar</td>
+            <td>Personal</td>
+            <td>Bisnis</td>
+        </tr>
+        <tr>
+            <td>Rp. 19.800/bln</td>
+            <td>Rp. 44.800/bln</td>
+            <td>Rp. 67.800/bln</td>
+            <td>Rp. 91.800/bln</td>
+        </tr>
+        <tr>
+            <td>500 MB Disk Space</td>
+            <td>Unilimited Disk Space</td>
+            <td>Unilimited Disk Space</td>
+            <td>Unilimited Disk Space</td>
+        </tr>
+        <tr>
+            <td>1 Domain</td>
+            <td>10 Addon Domain</td>
+            <td>Unlimited Addon Domain</td>
+            <td>Unlimited Addon Domain</td>
+        </tr>
+    </table>
+    <br>
+    <br>
+    <h3>Hubungi Kami</h3>
+    <input type="text" placeholder="Nama Anda"><br><br>
+    <input type="text" placeholder="Masukan Email anda"><br><br>
+    <input type="text" placeholder="Subjek"><br><br>
+    <textarea placeholder="Pertanyaan" rows="5"></textarea>
+    <br><br>
+    <input type="submit" value="Kirim Barang">
+    
+</body>
+</html>

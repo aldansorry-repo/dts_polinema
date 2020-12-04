@@ -1,0 +1,8 @@
+Hasil export text
+Angka 1 berjumlah 3 
+Angka 2 berjumlah 2 
+Angka 3 berjumlah 1 
+Angka 4 berjumlah 2 
+Angka 5 berjumlah 2 
+Angka 7 berjumlah 1 
+Angka 9 berjumlah 2 
